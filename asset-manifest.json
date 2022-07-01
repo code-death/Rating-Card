@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-death/rating-component/static/css/main.75d7d3fc.css",
+    "main.js": "/code-death/rating-component/static/js/main.6be227a4.js",
+    "static/media/illustration-thank-you.svg": "/code-death/rating-component/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/code-death/rating-component/index.html",
+    "static/media/icon-star.svg": "/code-death/rating-component/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.75d7d3fc.css.map": "/code-death/rating-component/static/css/main.75d7d3fc.css.map",
+    "main.6be227a4.js.map": "/code-death/rating-component/static/js/main.6be227a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d7d3fc.css",
+    "static/js/main.6be227a4.js"
+  ]
+}
